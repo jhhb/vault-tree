@@ -1,0 +1,5 @@
+= vault_tree
+
+Generate this with
+    vault_tree _doc
+After you have described your command line interface
